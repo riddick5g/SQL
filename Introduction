@@ -1,0 +1,3 @@
+select * from exampleTable;
+--parameters=where
+--clauses=each line
