@@ -1,0 +1,10 @@
+create table friends(
+        name string not null,
+        age int);
+        
+Data Types:
+int
+float
+varchar
+text
+boolean
